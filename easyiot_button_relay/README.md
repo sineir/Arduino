@@ -1,4 +1,6 @@
 # ESP8266 IOT
-> Utiliza servidor mqttcloud.com
-> Automação residencial: liga desliga via web
-> Necessita hardware para comutação: relê mecanico ou eletronico
+<ul>
+<li> Utiliza servidor mqttcloud.com
+<li> Automação residencial: liga desliga via web
+<li> Necessita hardware para comutação: relê mecanico ou eletronico
+</ul>

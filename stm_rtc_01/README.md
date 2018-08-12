@@ -11,3 +11,6 @@ Objetivos:
 2. Adicionar botões para ajustes
 3. Adicionar IR para ajuste via controle
 4. Adicionar funçoes alarme
+
+## Problemas
+- Adiantando 01 minuto a cada 15 minutos. Causas? Soluções?

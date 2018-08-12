@@ -13,4 +13,7 @@ Objetivos:
 4. Adicionar funçoes alarme
 
 ## Problemas
-- Adiantando 01 minuto a cada 15 minutos. Causas? Soluções?
+- Adiantando 01 minuto a cada 15 minutos (parece que a linha abaixo resolveu).
+  - rtc.setClockSource(STM32RTC::RTC_HSE_CLOCK);
+- Ao desligar e ligar o relógio "zera".
+  - Mesmo ao energizar vbat com 3.3 permanente não resolveu. Pendente..
